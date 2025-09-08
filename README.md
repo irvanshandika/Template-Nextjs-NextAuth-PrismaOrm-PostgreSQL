@@ -1,6 +1,6 @@
-# Portfolio dengan Sistem Autentikasi
+# Template Nextjs dengan Sistem Autentikasi
 
-Proyek ini adalah aplikasi portfolio dengan sistem autentikasi yang mencakup kredensial (email/password) dan Google OAuth menggunakan NextAuth.js dan Prisma ORM dengan database PostgreSQL.
+Proyek ini adalah template projek Nextjs dengan sistem autentikasi yang mencakup kredensial (email/password) dan Google OAuth menggunakan NextAuth.js dan Prisma ORM dengan database PostgreSQL.
 
 ## Fitur
 
